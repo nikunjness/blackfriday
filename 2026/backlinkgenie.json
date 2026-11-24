@@ -1,0 +1,14 @@
+{
+  "name": "BacklinkGenie",
+  "url": "https://backlinkgenie.com/pricing/",
+  "description": "AI link-building outreach agent: finds posts where you belong, pitches editors from a managed mailbox, follows up and checks links stay live",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "30% off monthly or 50% off yearly, for as long as you stay subscribed",
+  "pricing": "subscription",
+  "price": { "regular": 990, "sale": 495, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-31",
+  "icon": "https://backlinkgenie.com/apple-touch-icon.png"
+}
